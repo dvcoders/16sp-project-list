@@ -14,7 +14,7 @@
 
 **What programming language will you use?**
 
-**What libraries, tools, or engines will you use? **
+**What libraries, tools, or engines will you use?**
 
 **What learning resources have you started to use?** 
 
@@ -36,7 +36,7 @@ Add you project idea below this line, and make a pull request to the master bran
 
 **What programming language will you use?** HTML/CSS/JS, Python, and etc.
 
-**What libraries, tools, or engines will you use? ** FLASK and etc.
+**What libraries, tools, or engines will you use?** FLASK and etc.
 
 **What learning resources have you started to use?**  FLASK, Stackoverflow, and GOOGLE!
 
@@ -80,3 +80,22 @@ Add you project idea below this line, and make a pull request to the master bran
 
 **What learning resources have you started to use**? I will look into it.
 
+-
+
+**Name of project**: Movie on Cloth
+
+**Type of project**: Website
+
+**Looking for team members (yes/no)**: yes
+
+**Project description (3 sentences max):** - website for company
+                                           - advertising a product
+                                           - website can also use for online shop 
+
+**Who is this project for?** everybody
+
+**What programming language will you use?** HTML & CSS
+
+**What libraries, tools, or engines will you use?** Marksheet 
+
+**What learning resources have you started to use?** Marksheet
