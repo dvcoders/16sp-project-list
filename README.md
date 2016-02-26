@@ -1,46 +1,25 @@
 ## Projet Ideas Template
 
-**Name of project**: You're gonna die anyway
+**Name of project**:
 
-**Type of project**: Android Game
+**Type of project**:
 
-**Current team members**: Hannah, Zeph, Jean, Kasra, Kevin
+**Current team members**:
 
-**Looking for team members (yes/no)**: no
+**Looking for team members (yes/no)**:
 
-**Project description (3 sentences max):** A Zorklike game where you make decisions 
+**Project description (3 sentences max):**
 
-**Who is this project for?** anyone?
+**Who is this project for?**
 
-**What programming language will you use?** Java
+**What programming language will you use?**
 
-**What libraries, tools, or engines will you use? **Java, android building environment
+**What libraries, tools, or engines will you use? **
 
 **What learning resources have you started to use?** 
 
 Add you project idea below this line, and make a pull request to the master branch!
 
-**--
-
-Name of project: You're gonna die anyway
-
-Type of project: Android Game
-
-Current team members: Hannah, Zeph, Jean, Kasra, Kevin
-
-Looking for team members (yes/no): no
-
-Project description (3 sentences max): A Zorklike game where you make decisions 
-
-Who is this project for? anyone?
-
-What programming language will you use? Java
-
-What libraries, tools, or engines will you use? Java, android building environment
-
-What learning resources have you started to use? Still looking and researching.
-
---
 **Name of project**: Porfolio Website
 
 **Type of project**: Website Project
