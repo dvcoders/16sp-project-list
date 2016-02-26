@@ -1,5 +1,27 @@
 ## Projet Ideas Template
 
+**Name of project**:
+
+**Type of project**:
+
+**Current team members**:
+
+**Looking for team members (yes/no)**:
+
+**Project description (3 sentences max):**
+
+**Who is this project for?**
+
+**What programming language will you use?**
+
+**What libraries, tools, or engines will you use?**
+
+**What learning resources have you started to use?**
+
+Add you project idea below this line, and make a pull request to the master branch!
+
+-
+
 **Name of project**:DVC Schedule App
 
 **Type of project**:Mobile
@@ -17,8 +39,6 @@
 **What libraries, tools, or engines will you use?**Java, android
 
 **What learning resources have you started to use?**Github, Google
-
-Add you project idea below this line, and make a pull request to the master branch!
 
 -
 
