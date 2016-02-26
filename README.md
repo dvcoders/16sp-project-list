@@ -4,7 +4,7 @@
 
 **Type of project**:
 
-**Current team members:
+**Current team members**:
 
 **Looking for team members (yes/no)**:
 
