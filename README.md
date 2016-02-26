@@ -1,2 +1,17 @@
-# club-projects
-A list of club projects Spring 2016
+## Projet Ideas Template
+
+**Name of project**:
+
+**Type of project**:
+
+**Looking for team members (yes/no)**:
+
+**Project description (3 sentences max):**
+
+**Who is this project for?**
+
+**What programming language will you use?**
+
+**What libraries, tools, or engines will you use?**
+
+**What learning resources have you started to use?**
