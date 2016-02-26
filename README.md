@@ -1,22 +1,22 @@
 ## Projet Ideas Template
 
-**Name of project**:
+**Name of project**:DVC Schedule App
 
-**Type of project**:
+**Type of project**:Mobile
 
-**Current team members**:
+**Current team members**:Allen Yin, Jaclyn Yeonji Byun, Hongseok Jang
 
-**Looking for team members (yes/no)**:
+**Looking for team members (yes/no)**:Yes
 
-**Project description (3 sentences max):**
+**Project description (3 sentences max):**Provide automatically generated schedule of classes, homeword and school events for individual student
 
-**Who is this project for?**
+**Who is this project for?**DVC Students
 
-**What programming language will you use?**
+**What programming language will you use?**Java
 
-**What libraries, tools, or engines will you use?**
+**What libraries, tools, or engines will you use?**Java, android
 
-**What learning resources have you started to use?** 
+**What learning resources have you started to use?**Github, Google
 
 Add you project idea below this line, and make a pull request to the master branch!
 
