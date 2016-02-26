@@ -4,6 +4,8 @@
 
 **Type of project**:
 
+**Current team members:
+
 **Looking for team members (yes/no)**:
 
 **Project description (3 sentences max):**
