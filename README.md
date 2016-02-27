@@ -18,7 +18,7 @@
 
 **What learning resources have you started to use?**
 
-Add you project idea below this line, and make a pull request to the master branch!
+Add your project idea below this line, and make a pull request to the master branch!
 
 -
 
@@ -119,3 +119,23 @@ Add you project idea below this line, and make a pull request to the master bran
 **What libraries, tools, or engines will you use?** Marksheet 
 
 **What learning resources have you started to use?** Marksheet
+
+-
+
+**Name of project**: BlueAudio
+
+**Type of project**: Chrome Extension
+
+**Current team members**: Me
+
+**Looking for team members (yes/no)**: Yes
+
+**Project description (3 sentences max):** Allows you to attach a bluetooth device to Chrome to play music through your computer speakers, or speaker system.
+
+**Who is this project for?** Anyone that uses Chrome and Bluetooth audio
+
+**What programming language will you use?** HTML, JS, CSS
+
+**What libraries, tools, or engines will you use?** None
+
+**What learning resources have you started to use?** Chrome Dev Docs
