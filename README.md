@@ -54,11 +54,11 @@ Add your project idea below this line, and make a pull request to the master bra
 
 **Who is this project for?** DVC students
 
-**What programming language will you use?** HTML/CSS/JS, Python, and etc.
+**What programming language will you use?** JavaScript, Python3, SQL.
 
-**What libraries, tools, or engines will you use?** FLASK and etc.
+**What libraries, tools, or engines will you use?** Flask, SQLAlchemy, PosgreSQL, jQuery.
 
-**What learning resources have you started to use?**  FLASK, Stackoverflow, and GOOGLE!
+**What learning resources have you started to use?**  [Flask Documentation](http://flask.pocoo.org/docs/0.10/), [Stackoverflow](http://stackoverflow.com/), and [GOOGLE](http://google.com)!
 
 -
 
