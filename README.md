@@ -126,7 +126,7 @@ Add your project idea below this line, and make a pull request to the master bra
 
 **Type of project**: Chrome Extension
 
-**Current team members**: Me
+**Current team members**: Monte Yates
 
 **Looking for team members (yes/no)**: Yes
 
