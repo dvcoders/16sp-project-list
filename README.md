@@ -139,3 +139,63 @@ Add your project idea below this line, and make a pull request to the master bra
 **What libraries, tools, or engines will you use?** None
 
 **What learning resources have you started to use?** Chrome Dev Docs
+
+-
+
+**Name of project**: cipher maker
+
+**Type of project**: cipher
+
+**Current team members**: Mitchell Morneo
+
+**Looking for team members (yes/no)**: no
+
+**Project description (3 sentences max):** Creating a cipher tool that uses a password and encripts words or lines of text
+
+**Who is this project for?** anyone wanting to encript there text with a password
+
+**What programming language will you use?** Java
+
+**What libraries, tools, or engines will you use? **Java, Eclipse
+
+**What learning resources have you started to use?** TBD
+
+-
+
+**Name of project:** You're gonna die anyway
+
+**Type of project:** Android Game
+
+**Current team members:** Hannah, Zeph, Jean, Kasra, Kevin, Jackie, Odile
+
+**Looking for team members** (yes/no): no
+
+**Project description (3 sentences max):** A Zorklike game where you make decisions 
+
+**Who is this project for?** anyone?
+
+**What programming language will you use?** Java
+
+**What libraries, tools, or engines will you use?** Java, android building environment
+
+**What learning resources have you started to use?** Still looking and researching. 
+
+-
+
+**Name of project:** Childhood Development App
+
+**Type of project:** Android Application
+
+**Current team members:** Myself
+
+**Looking for team members (yes/no):** no
+
+**Project description (3 sentences max):** App will provide info on childhood development, diagnose illnesses from input, parenting advice, etc...
+
+**Who is this project for?** Parents or caregivers.
+
+**What programming language will you use?** Java
+
+**What libraries, tools, or engines will you use?** IDK my BFF Jill?
+
+**What learning resources have you started to use?** Jacob
