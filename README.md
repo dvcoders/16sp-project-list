@@ -199,3 +199,67 @@ Add your project idea below this line, and make a pull request to the master bra
 **What libraries, tools, or engines will you use?** IDK my BFF Jill?
 
 **What learning resources have you started to use?** Jacob
+
+-
+
+**Name of project**: Mymajorchoices
+
+**Type of project**: Website
+
+**Current team members**: Zahid (just myself)
+
+**Looking for team members (yes/no)**: no
+
+**Project description (3 sentences max):** A website to help and inform mainly college students or just about anyone who's looking to pick a major/career and help them to pick and decide the right major/career. 
+
+**Who is this project for?** Mainly college students or anyone picking/changing careers/majors.
+
+**What programming language will you use?** Html, CSS, (etc, idk yet). (Im still deciding).
+
+**What libraries, tools, or engines will you use? **Sublime
+
+**What learning resources have you started to use?** Code academy, w3 schools.
+
+Add you project idea below this line, and make a pull request to the master branch!
+
+
+
+**Name of project**: Tic tac toe
+
+**Type of project**: C++ game
+
+**Current team members**: Zahid
+
+**Looking for team members (yes/no)**: no
+
+**Project description (3 sentences max):** Simple Tic tac toe game for C++ (and adding this project to improve my resume)
+
+**Who is this project for?** Myself, my resume, people playing the game
+
+**What programming language will you use?** C++
+
+**What libraries, tools, or engines will you use? Codeblocks, cpp.shell (cpp.sh) (writing/taking my personal notes)
+
+**What learning resources have you started to use?** Youtube tutorial
+
+Add you project idea below this line, and make a pull request to the master branch!
+
+
+
+**Name of project**: Snake
+
+**Type of project**: C++ Game
+
+**Current team members**: Zahid 
+
+**Looking for team members (yes/no)**: yes
+
+**Project description (3 sentences max):** Simple Snake game 
+
+**Who is this project for?** Myself
+
+**What programming language will you use?** C++
+
+**What libraries, tools, or engines will you use? Codeblocks, cpp.shell (cpp.sh) (writing/taking my personal notes)
+
+**What learning resources have you started to use?** Youtube tutorial
