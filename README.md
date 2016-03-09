@@ -220,9 +220,7 @@ Add your project idea below this line, and make a pull request to the master bra
 
 **What learning resources have you started to use?** Code academy, w3 schools.
 
-Add you project idea below this line, and make a pull request to the master branch!
-
-
+--
 
 **Name of project**: Tic tac toe
 
@@ -244,7 +242,7 @@ Add you project idea below this line, and make a pull request to the master bran
 
 Add you project idea below this line, and make a pull request to the master branch!
 
-
+--
 
 **Name of project**: Snake
 
@@ -263,3 +261,23 @@ Add you project idea below this line, and make a pull request to the master bran
 **What libraries, tools, or engines will you use? Codeblocks, cpp.shell (cpp.sh) (writing/taking my personal notes)
 
 **What learning resources have you started to use?** Youtube tutorial
+
+--
+
+**Name of project**: Gender Neutral Milk Hotel's Website of Fulfilled Dreams
+
+**Type of project**: Personal Website Porfolio
+
+**Looking for team members (yes/no)**: Nahh
+
+**Project description (3 sentences max):** A website that displays my projects
+
+**Who is this project for?** Classmates, friends, future employers.
+
+**What programming language will you use?** HTML/CSS
+
+**What libraries, tools, or engines will you use?**
+
+**What learning resources have you started to use?** codeacademy.com, YouTube, Google
+
+--
